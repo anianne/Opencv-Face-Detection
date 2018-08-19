@@ -18,6 +18,7 @@ The first folder should be structured as follows.
 			Content: Pictures labeled 1.jpg,2.jpg etc.
 	
 The second folder should be structured as follows.
+
 	Name: test-data
 	Contents: Two test pictures, named test1.jpg and test2.jpg
 		
