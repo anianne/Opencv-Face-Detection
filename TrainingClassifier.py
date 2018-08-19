@@ -5,7 +5,7 @@ import os
 
 import numpy as np
 
-subjects = ["","anish","anika",]
+subjects = ["","person1","person2",]
 
 def detect_face(img):
 
@@ -103,7 +103,7 @@ face_recognizer = cv2.face.LBPHFaceRecognizer_create()
 
 
 face_recognizer.train(faces, np.array(labels))
-face_recognizer.save('models/LBPH')
+face_recognizer.save('FaceRecognizerModel')
 
 
 
