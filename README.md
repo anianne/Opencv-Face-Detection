@@ -27,5 +27,6 @@ The picture part is done! Now to move on to the code.
 Their are 2 programs in the repository, TrainingClassifier.py and facerecognizer_run.py
 The first one, TrainingClassifier.py, will train a model to detect the specific face. The second one, facerecognizer_run.py will be using that model to find faces.
 
-
+In TrainingClassifier.py you will need to change 
+	
 		
