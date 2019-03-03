@@ -2,7 +2,7 @@
 
 Clone and unzip the repository.
 
-
+Collect Pictures
 
 Replace subject 1 and subject 2 with the names of the people in both files.
 
