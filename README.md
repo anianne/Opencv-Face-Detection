@@ -24,14 +24,11 @@ The second folder should be structured as follows.
 		Name: test-data
 		Contents: Two test pictures, named test1.jpg and test2.jpg
 	
-The picture part is done! Now to move on to the code.
+	
+## Editing the code
 
 Their are 2 programs in the repository, TrainingClassifier.py and facerecognizer_run.py
 The first one, TrainingClassifier.py, will train a model to detect the specific face. The second one, facerecognizer_run.py will be using that model to find faces.
-
-##Editing the code
-
-Their are 2 programs in the repository, TrainingClassifier.py and facerecognizer_run.py The first one, TrainingClassifier.py, will train a model to detect the specific face. The second one, facerecognizer_run.py will be using that model to find faces.
 
 In TrainingClassifier.py you will need to change the ```subjects = ["","subject1","subject2"]``` 
 
