@@ -29,5 +29,6 @@ The first one, TrainingClassifier.py, will train a model to detect the specific 
 
 In TrainingClassifier.py you will need to change the following line.
 	subjects = ["","subject1","subject2"]
-Replace "subject1" and "subject2" with the names of the people in the images and add more items to the list if needed. (So if you have 6 people, the code will say subjects = ["","subject1","subject2","subject3","subject4","subject5","subject6"])
+Replace "subject1" and "subject2" with the names of the people in the images and add more items to the list if needed. (So if you have 6 people, the code could say subjects = ["","Bob","Mike","Bill","Chip","Joe","Billy"])
+
 		
