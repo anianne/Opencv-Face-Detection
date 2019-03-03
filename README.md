@@ -1,8 +1,6 @@
 # Opencv-Face-Detection
 
-unzip
-
-##Collect the images
+## Collect the images
 
 Clone and unzip the repository.
 
