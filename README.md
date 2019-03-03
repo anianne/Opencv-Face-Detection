@@ -1,5 +1,6 @@
 # Opencv-Face-Detection
 
+#Collect the images
 Clone and unzip the repository.
 
 Collect your pictures. You will need 2 or more pictures for every person.
