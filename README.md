@@ -1,5 +1,9 @@
 # Opencv-Face-Detection
 
+Clone and unzip the repository.
+
+
+
 Replace subject 1 and subject 2 with the names of the people in both files.
 
 Make 2 folders. 
