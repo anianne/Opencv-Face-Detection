@@ -2,9 +2,7 @@
 
 Clone and unzip the repository.
 
-Collect The Pictures
-
-Replace subject 1 and subject 2 with the names of the people in both files.
+Collect your pictures. You will need 2 or more pictures for every person.
 
 Make 2 folders. 
 
