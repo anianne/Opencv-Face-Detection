@@ -4,11 +4,10 @@ Clone and unzip the repository.
 
 Collect your pictures. You will need 2 or more pictures for every person.
 
-
 The first folder should be structured as follows.
 
 	Name: training-data
-	Contents: Two sub folders
+	Contents: 1 sub folder per person.
 	
 		Sub folder 1:
 			Name: s1
@@ -22,4 +21,6 @@ The second folder should be structured as follows.
 
 	Name: test-data
 	Contents: Two test pictures, named test1.jpg and test2.jpg
+	
+The picture part is done! Now to move on to the code.
 		
