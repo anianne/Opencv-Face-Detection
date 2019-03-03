@@ -19,8 +19,8 @@ The first folder should be structured as follows.
 	
 The second folder should be structured as follows.
 
-	Name: test-data
-	Contents: Two test pictures, named test1.jpg and test2.jpg
+		Name: test-data
+		Contents: Two test pictures, named test1.jpg and test2.jpg
 	
 The picture part is done! Now to move on to the code.
 
@@ -30,5 +30,6 @@ The first one, TrainingClassifier.py, will train a model to detect the specific 
 In TrainingClassifier.py you will need to change the following line.
 	subjects = ["","subject1","subject2"]
 Replace "subject1" and "subject2" with the names of the people in the images and add more items to the list if needed. (So if you have 6 people, the code could say subjects = ["","Bob","Mike","Bill","Chip","Joe","Billy"])
+
 
 		
