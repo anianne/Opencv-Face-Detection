@@ -4,7 +4,6 @@ Clone and unzip the repository.
 
 Collect your pictures. You will need 2 or more pictures for every person.
 
-Make 2 folders. 
 
 The first folder should be structured as follows.
 
