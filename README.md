@@ -27,13 +27,12 @@ The second folder should be structured as follows.
 	
 ## Editing the code
 
-Their are 2 programs in the repository, TrainingClassifier.py and facerecognizer_run.py
-The first one, TrainingClassifier.py, will train a model to detect the specific face. The second one, facerecognizer_run.py will be using that model to find faces.
+Their are 2 programs in the repository, ```"TrainingClassifier.py" and facerecognizer_run.py```"
+The first one, ```"TrainingClassifier.py```", will train a model to detect the specific face. The second one, ```"facerecognizer_run.py```" will be using that model to find faces.
 
-In TrainingClassifier.py you will need to change the ```subjects = ["","subject1","subject2"]``` 
-
+In ```"TrainingClassifier.py```" you will need to change the ```subjects = ["","subject1","subject2"]``` 
 Replace ```"subject1" and "subject2"``` with the names of the people in the images and add more items to the list if needed. (So if you have 6 people, the code could say ```subjects = ["","Bob","Mike","Bill","Chip","Joe","Billy"]```)
-
+Do the same for ```"facerecognizer_run.py"```.
 
 
 
